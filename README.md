@@ -9,7 +9,9 @@ Through Fintech Finder you can send payments to your favorite Fintech profession
 3) Click on "Send Transaction."
 
 4) You are all set. The transaction has been recorded in the Ethereum blockchain!
-
+<br>
+<br>
+<br>
 <p align='center'> <img src='images/picture_blocks.JPG'></p>
 The Ganache blocks that the user creates through the app. 
  <br>
